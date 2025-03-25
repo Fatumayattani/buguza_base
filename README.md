@@ -68,13 +68,10 @@ Buguza aims to become the **universal security layer for Web3**:
 ## 🤝 **Join the Movement**  
 **Buguza is more than a platform—it’s a movement.**  
 Whether you’re a developer, auditor, or blockchain advocate, follow our progress and contribute:  
-- **GitHub**: Star ⭐ this repo to support visibility.  
-- **Twitter/X**: [@Buguza](https://twitter.com/buguza) for updates.  
-- **Discord**: Join the conversation [here](https://discord.gg/example).  
+- **GitHub**: Star ⭐ this repo to support visibility.   
 
 ---
 
 **License**  
-MIT License | 🚀 Pioneering the future of decentralized security since 2024.  
-```
+MIT License | 
 

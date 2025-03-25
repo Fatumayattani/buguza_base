@@ -1,5 +1,6 @@
-[![Built on Base](https://img.shields.io/badge/Built_on-Base-0052FF?style=for-the-badge&logo=base)](https://base.org)  
-[![Powered by OnchainKit](https://img.shields.io/badge/Powered_by-OnchainKit-FF6BCD?style=for-the-badge&logo=ethereum)](https://onchainkit.xyz)  
+[![Built on Base](https://img.shields.io/badge/Built_on-Base-0052FF?style=for-the-badge&logo=base)](https://base.org) [![Powered by OnchainKit](https://img.shields.io/badge/Powered_by-OnchainKit-FF6BCD?style=for-the-badge&logo=ethereum)](https://onchainkit.xyz)
+
+
 # 🛡️ Buguza  
 **Decentralized Security, Community-Powered Audits**  
 
